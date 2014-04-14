@@ -2,9 +2,9 @@
 # test for commit changes
 ##
 
-<<<<<<< HEAD
-import math, sys
-=======
+
+import math, sys, numpy
+
 
 # Changes made by nawang to test US fetch and merge
->>>>>>> upstream/master
+
